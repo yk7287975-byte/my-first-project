@@ -1,5 +1,4 @@
 Apple
 Grapes
-Mango
+mango
 Banana
-Orange
